@@ -15,7 +15,8 @@
 [Extra](#Extra)</br>
 [Feedback](#Feedback)</br>
 
-## Recommended literature <a name="Recommended_literature"></a> 
+## Recommended literature
+<a name="Recommended_literature"></a> 
 <details>
     <summary>Books in Russian</summary>
 
@@ -132,4 +133,5 @@ Follow up: Gibbs, Z.M.; Kim, H.-S.; Wang, H.; Snyder, G.J. [Band gap estimation 
 </details>
 </details>
 
-## Software <a name="Software"></a>
+## Software
+<a name="Software"></a>
