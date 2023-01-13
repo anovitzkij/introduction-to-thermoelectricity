@@ -109,7 +109,7 @@
     <summary>Measurements</summary>
 
 - Borup, K.A.; de Boor, J.; Wang, H.; Drymiotis, F.; Gascoin, F.; Shi, X.; Chen, L.; Fedorov, M.I.; Müller, E.; Iversen, B.B.; Snyder, G.J. [Measuring thermoelectric transport properties of materials](https://sci-hub.se/10.1039/C4EE01320D). *Energy Environ. Sci.* **2015**, *8* (2), 423–435
-- Alleno, E.; Bérardan, D.; Byl, C.; Candolfi, C.; Daou, R.; Decourt, R.; Guilmeau, E.; Hébert, S.; Hejtmanek, J.; Lenoir, B.; Masschelein, P.; Ohorodnichuk, V.; Pollet, M.; Populoh, S.; Ravot, D.; Rouleau, O.; Soulier, M. [Invited article: A round robin test of the uncertainty on the measurement of the thermoelectric dimensionless figure of merit of Co<sub>0.97</sub>Ni<sub>0.03</sub>Sb</sub>3.](https://sci-hub.se/10.1063/1.4905250) *Rev. Sci. Instrum.* **2015**, *86* (1), 011301
+- Alleno, E.; Bérardan, D.; Byl, C.; Candolfi, C.; Daou, R.; Decourt, R.; Guilmeau, E.; Hébert, S.; Hejtmanek, J.; Lenoir, B.; Masschelein, P.; Ohorodnichuk, V.; Pollet, M.; Populoh, S.; Ravot, D.; Rouleau, O.; Soulier, M. [Invited article: A round robin test of the uncertainty on the measurement of the thermoelectric dimensionless figure of merit of Co<sub>0.97</sub>Ni<sub>0.03</sub>Sb<sub>3</sub>.](https://sci-hub.se/10.1063/1.4905250) *Rev. Sci. Instrum.* **2015**, *86* (1), 011301
 </details>
 <details>
     <summary>Defects</summary>
