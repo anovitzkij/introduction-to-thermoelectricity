@@ -1,6 +1,6 @@
 # Introduction to Thermoelectricity [under construction]
 
-`a curated list of books/software/resources useful for thermoelectric materials research`
+A curated list of books/software/resources useful for thermoelectric materials research
 ## Table of contents:
 [Recommended literature](#Recommended_literature)</br>
 [Software](#Software)</br>
@@ -15,8 +15,8 @@
 [Extra](#Extra)</br>
 [Feedback](#Feedback)</br>
 
+<a name="Recommended_literature"></a>
 ## Recommended literature
-<a name="Recommended_literature"></a> 
 <details>
     <summary>Books in Russian</summary>
 
@@ -133,5 +133,75 @@ Follow up: Gibbs, Z.M.; Kim, H.-S.; Wang, H.; Snyder, G.J. [Band gap estimation 
 </details>
 </details>
 
-## Software
 <a name="Software"></a>
+## Software
+<details>
+    <summary>Data processing and graphing</summary>
+
+- [Python](https://www.python.org/) is a high-level, interpreted, general-purpose programming language, which seems to be one of the most popular to be applied for scientific research. In particular, it can be used for data analysis, calculations or graphing `free`
+<br>💡 Recommended environment: [Anaconda distribution](https://www.anaconda.com/products/distribution)
+<br>🐍 [Python scripts/programs useful for thermoelectric research](https://github.com/anovitzkij?tab=stars)
+<br>🎨Python libraries for graphing: [matplotlib](), [](), []()
+<br>🤖[ChatGPT](https://chat.openai.com) that can help you to improve your code or even write a code for you following your human request
+<br>📖 AI copilot by [scispace](http://scispace.com/) that can help you read papers (see [demonstration](https://youtu.be/a3djzJqvI_4) by [Dr. Taylor Sparks](https://scholar.google.com/citations?user=19j9s6oAAAAJ&hl)) 
+- [OriginPro](https://www.originlab.com/origin) is one of the most popular data analysis and graphing software in academia `non-free`
+- [gnuplot](http://www.gnuplot.info/)  is a portable command-line driven graphing utility `free`
+- [DataGraph](https://www.visualdatatools.com/DataGraph/) is a graphing and data analysis software application for the macOS operating system `non-free`
+- [SigmaPlot](https://systatsoftware.com/sigmaplot/) is a software package for scientific graphing and data analysis `non-free`
+- [Veusz](https://veusz.github.io/) is a scientific plotting and graphing program with a graphical user interface, designed to produce publication-ready 2D and 3D plots. In addition it can be used as a module in Python for plotting. `free`
+- [Ti*k*Z & PGF](https://www.ctan.org/pkg/pgf) is a $\TeX$ macro package for creating graphs with a user-friendly syntax layer `free`
+- [Grace](https://plasma-gate.weizmann.ac.il/Grace/) is a WYSIWYG 2D plotting tool that runs under Linux and Mac `free`
+- [Asymptote](https://asymptote.sourceforge.io/) is a 2D & 3D $\TeX$-Aware Vector Graphics Language `free`
+- [MATLAB](https://www.mathworks.com/products/matlab.html) is a multi-paradigm programming language and numeric computing environment `non-free`
+- [Octave](https://octave.org/) is a programming language for scientific computing considered as an alternative to MATLAB `free`
+- [MathCAD](https://www.mathcad.com/en/) is engineering math software that allows you to perform, analyze, and visualize your calculations `non-free`
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="Online_tools"></a>
+## Online tools
+<a name="Courses_lectures"></a>
+## Courses & lectures
+<a name="Tutorials"></a>
+## Tutorials
+<a name="Databases"></a>
+## Databases
+<a name="Scientific_research_repositories"></a>
+## Scientific research repositories
+<a name="Search_for_books"></a>
+## Search for scientific publications and books
+<a name="Academic_writing"></a>
+## Academic writing
+<a name="dataviz"></a>
+## Data visualization and presentation
+<a name="Extra"></a>
+## Extra
+<a name="Feedback"></a>
+## Feedback
+
+<!-- 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=a3djzJqvI_4
+" target="_blank"><img src="http://img.youtube.com/vi/a3djzJqvI_4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+-->
