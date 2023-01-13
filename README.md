@@ -109,14 +109,14 @@
     <summary>Measurements</summary>
 
 - Borup, K.A.; de Boor, J.; Wang, H.; Drymiotis, F.; Gascoin, F.; Shi, X.; Chen, L.; Fedorov, M.I.; Müller, E.; Iversen, B.B.; Snyder, G.J. [Measuring thermoelectric transport properties of materials](https://sci-hub.se/10.1039/C4EE01320D). *Energy Environ. Sci.* **2015**, *8* (2), 423–435
-- Alleno, E.; Bérardan, D.; Byl, C.; Candolfi, C.; Daou, R.; Decourt, R.; Guilmeau, E.; Hébert, S.; Hejtmanek, J.; Lenoir, B.; Masschelein, P.; Ohorodnichuk, V.; Pollet, M.; Populoh, S.; Ravot, D.; Rouleau, O.; Soulier, M. [Invited article: A round robin test of the uncertainty on the measurement of the thermoelectric dimensionless figure of merit of $\text{Co}_{0.97}\text{Ni}_{0.03}\text{Sb}_{3}$.](https://sci-hub.se/10.1063/1.4905250) *Rev. Sci. Instrum.* **2015**, *86* (1), 011301
+- Alleno, E.; Bérardan, D.; Byl, C.; Candolfi, C.; Daou, R.; Decourt, R.; Guilmeau, E.; Hébert, S.; Hejtmanek, J.; Lenoir, B.; Masschelein, P.; Ohorodnichuk, V.; Pollet, M.; Populoh, S.; Ravot, D.; Rouleau, O.; Soulier, M. [Invited article: A round robin test of the uncertainty on the measurement of the thermoelectric dimensionless figure of merit of Co<sub>0.97</sub>Ni<sub>0.03</sub>Sb</sub>3.](https://sci-hub.se/10.1063/1.4905250) *Rev. Sci. Instrum.* **2015**, *86* (1), 011301
 </details>
 <details>
     <summary>Defects</summary>
     
 - Zheng, Y.; Slade, T.J.; Hu, L.; Tan, X.Y.; Luo, Y.; Luo, Z.-Z.; Xu, J.; Yan, Q.; Kanatzidis, M.G. [Defect engineering in thermoelectric materials: What have we learned?](https://drive.google.com/file/d/1meFNMXcWb5q3p2hS7UC4z051jz6GHhsA/view?usp=sharing) *Chem. Soc. Rev.* **2021**, *50* (16), 9022–9054
 - Anand, S.; Toriyama, M.Y.; Wolverton, C.; Haile, S.M.; Snyder, G.J. [A Convergent understanding of charged defects](https://drive.google.com/file/d/1Nbs4HIvqGIifJ89XHiFTkj--Mi57xeET/view?usp=sharing). *Accounts Mater. Res.* **2022**, *3* (7), 685–696
-- Toriyama, M.Y.; Brod, M.K.; Snyder, G.J. [Chemical interpretation of charged point defects in semiconductors: A case study of $\text{Mg}_2\text{Si}$](https://doi.org/10.1002/cnma.202200222). *ChemNanoMat* **2022**
+- Toriyama, M.Y.; Brod, M.K.; Snyder, G.J. [Chemical interpretation of charged point defects in semiconductors: A case study of Mg<sub>2</sub>Si](https://doi.org/10.1002/cnma.202200222). *ChemNanoMat* **2022**
 </details>
 <details>
     <summary>Calculations & effective mass model</summary>
