@@ -5,7 +5,6 @@ A curated list of books/software/resources useful for thermoelectric materials r
 ## Table of contents:
 [Recommended literature](#Recommended_literature)</br>
 [Software](#Software)</br>
-[Online tools](#Online_tools)</br>
 [Courses & lectures](#Courses_lectures)</br>
 [Tutorials](#Tutorials)</br>
 [Databases](#Databases)</br>
@@ -218,25 +217,14 @@ Also see [comparison of best electronic lab notebook](https://github.com/Labii/c
 <details>
     <summary>Other</summary>
 
-- [Alloys](https://drive.google.com/open?id=1dX88VPRojxB8viRZWbHbp0a__QPe_pq9&authuser=m154161%40edu.misis.ru&usp=drive_fs) is a program for alloy weight calculations developed by [Alexey Karpenkov](https://www.researchgate.net/profile/Alexey-Karpenkov) `free`
-- [STDU Viewer](http://www.stdutility.com/download.html) is a viewer for multiple file formats (TIFF, PDF, DjVu, FB2, XPS, JBIG2) `free`
-- [Scripts for science and chemistry](https://github.com/fxcoudert/tools) by [François-Xavier Coudert](https://www.coudert.name/) `free`
-</details>
-
-<a name="Online_tools"></a>
-## Online tools
-<details>
-    <summary>Materials science</summary>
-
+- [Alloys](https://drive.google.com/open?id=1dX88VPRojxB8viRZWbHbp0a__QPe_pq9&authuser=m154161%40edu.misis.ru&usp=drive_fs) is a program for alloy weight calculations developed by [Alexey Karpenkov](https://www.researchgate.net/profile/Alexey-Karpenkov)
+- [STDU Viewer](http://www.stdutility.com/download.html) is a viewer for multiple file formats (TIFF, PDF, DjVu, FB2, XPS, JBIG2)
+- [Scripts for science and chemistry](https://github.com/fxcoudert/tools) by [François-Xavier Coudert](https://www.coudert.name/)
 - [Chemical equation balancer](https://www.webqc.org/balance.php) by webQC chemical portal
 - [Phase diagram creation](https://oqmd.org/analysis/phase_diagram/) by [Chris Wolverton's](https://www.wolverton.northwestern.edu/) group at Northwestern University
 - [Formation energy prediction](https://matlearn.org/) by University of Houston
 - [ELATE](https://progs.coudert.name/elate) is an online tool for analysis of elastic tensors
 - [CrystalNets](https://progs.coudert.name/topology) is a web interface for topology identification of crystalline materials
-</details>
-<details>
-    <summary>Open science</summary>
-
 - [OA audit](https://progs.coudert.name/OA_audit_js) is a tool to compute your ‘Open Access Score’ and check which of your papers are available freely, and which are not
 </details>
 
@@ -399,6 +387,7 @@ Also see [data resources for materials science](https://github.com/sedaoturak/da
 
 <a name="Search_for_books"></a>
 ## Search for scientific publications and books
+💡 AI copilot by [scispace](http://scispace.com/) can help you read papers (see [demonstration](https://youtu.be/a3djzJqvI_4) by [Dr. Taylor Sparks](https://scholar.google.com/citations?user=19j9s6oAAAAJ&hl))
 - [Connected papers](https://www.connectedpapers.com/) is a visual tool to help researchers and applied scientists find and explore papers relevant to their field of work `free`
 - [ResearchRabbit](https://www.researchrabbit.ai/) is a “citation-based literature mapping tool” available online `free`
 - [Gecko](https://www.citationgecko.com/) is an open source tool to help you find the most relevant papers to your research and give you a more complete sense of the research landscape `free`
@@ -426,7 +415,6 @@ Also see [data resources for materials science](https://github.com/sedaoturak/da
 
 <a name="Academic_writing"></a>
 ## Academic writing
-💡 AI copilot by [scispace](http://scispace.com/) can help you read papers (see [demonstration](https://youtu.be/a3djzJqvI_4) by [Dr. Taylor Sparks](https://scholar.google.com/citations?user=19j9s6oAAAAJ&hl))
 - Robert Day and Barbara Gastel – [How to Write and Publish a Scientific Paper](https://books.google.co.jp/books/about/How_to_Write_and_Publish_a_Scientific_Pa.html?id=2a0XBLl8GPwC&redir_esc=y) [6th edition] (2006)
 - Hilary Glasman-Deal – [Science Research Writing For Non-Native Speakers of English](https://drive.google.com/open?id=11M2ivLI94143iSR_-EQagtv-JdPgz7O7&authuser=m154161%40edu.misis.ru&usp=drive_fs) (2009)
 - [Whitesides' Group: Writing a Paper](https://onlinelibrary.wiley.com/doi/10.1002/adma.200400767) | Russian translation: [Как писать научную статью?](https://www.researchgate.net/publication/353073990_Whitesides'_Group_Writing_a_Paper_Russian_translation_Gruppa_Uajtsajda_napisanie_stati_Russkij_perevod)
