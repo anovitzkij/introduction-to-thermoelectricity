@@ -23,6 +23,7 @@ A curated list of books/software/resources useful for thermoelectric materials r
 - Киреев П.С. – [Физика полупроводников](https://drive.google.com/open?id=1Wj6FVOwjtLr9k4UAg_G7J-MJ2DgBHf-8) (1975)
 - Фистуль В.И. – [Введение в физику полупроводников](https://drive.google.com/open?id=1mSynSQHBv5LkbmecZssar_tGM_F_gHIG) (1984)
 - Шалимова К.В. – [Физика полупроводников](https://drive.google.com/open?id=1M-YHLnJrzRr7bhKND2J8T70U4PSAWQYi) (1985)
+- Иоффе А.Ф. – [Физика полупроводников](https://drive.google.com/open?id=1GjzKIqufNWgvS0IpwO7Zk3BbnUaesfVg&authuser=m154161%40edu.misis.ru&usp=drive_fs) (1957)
 - Драбл Дж., Голдсмид Г. – [Теплопроводность полупроводников](https://drive.google.com/open?id=1EMvzK_YzjPS5NJuC1rSXmoQ4oO_1dImQ) (1963)
 - Тейлор Дж. – [Введение в теорию ошибок](https://drive.google.com/open?id=1Dz-WMiqXEeZqbg-3go8OREMrVAMh1VSC) (1985)
 - Булат Л.П. – [Термоэлектрическое охлаждение. Курс лекций](https://drive.google.com/open?id=1aXmOY2eHrE1sK7bLM7qg1CWH1iHCwmJA) (2002)
@@ -141,7 +142,7 @@ Follow up: Gibbs, Z.M.; Kim, H.-S.; Wang, H.; Snyder, G.J. [Band gap estimation 
 - [Python](https://www.python.org/) is a high-level, interpreted, general-purpose programming language, which seems to be one of the most popular to be applied for scientific research. In particular, it can be used for data analysis, calculations or graphing `free`
 <br>🐍 Recommended environment: [Anaconda distribution](https://www.anaconda.com/products/distribution) (see ['getting started'](https://youtu.be/tn1wpfpLx6Y) by [Dr. Taylor Sparks](https://scholar.google.com/citations?user=19j9s6oAAAAJ&hl))
 <br>🆘 [Python scripts/programs useful for thermoelectric research](https://github.com/anovitzkij?tab=stars)
-<br>🎨 Python libraries for graphing: [matplotlib](https://github.com/matplotlib/matplotlib), [seaborn](https://github.com/mwaskom/seaborn), [plotly](https://github.com/plotly/plotly.py), and [bokeh](https://github.com/bokeh/bokeh)
+<br>🎨 Python libraries for graphing: [matplotlib](https://github.com/matplotlib/matplotlib), [plotnine](https://plotnine.readthedocs.io/en/stable/), [seaborn](https://github.com/mwaskom/seaborn), [plotly](https://github.com/plotly/plotly.py), and [bokeh](https://github.com/bokeh/bokeh)
 <br>🤖 [ChatGPT](https://chat.openai.com) can help you to improve your code or even write a code for you following your human request
 - [OriginPro](https://www.originlab.com/origin) is one of the most popular data analysis and graphing software in academia `non-free`
 - [gnuplot](http://www.gnuplot.info/)  is a portable command-line driven graphing utility `free`
