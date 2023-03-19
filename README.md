@@ -1,7 +1,7 @@
 # Introduction to Thermoelectricity
 
 A curated list of books/software/resources useful for thermoelectric materials research</br>
-<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: February 24, 2023 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
+<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: March 19, 2023 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
 ## Table of contents:
 [Recommended literature](#Recommended_literature)</br>
 [Software](#Software)</br>
@@ -190,6 +190,7 @@ Reference managers that will help you collect, organize, annotate, cite, and sha
 
 - [VESTA](https://jp-minerals.org/vesta/en/) is a 3D visualization program for structural models, volumetric data such as electron/nuclear densities, and crystal morphologies `free`
 - [Match!](https://www.crystalimpact.com/match/) is an easy-to-use software for phase analysis using powder diffraction data `non-free`
+- [Profex](https://www.profex-xrd.org/) is an open-source program for phase identification, phase quantification, and Rietveld refinement `free` [suggested by [Linda Abbassi](https://www.scopus.com/authid/detail.uri?authorId=57214757340)]
 - [The FullProf Suite](https://www.ill.eu/sites/fullprof/index.html) is a set of several crystallographic programs mainly developed for Rietveld analysis of neutron or X-ray powder diffraction data `free`
 - [PowderCell](http://mill2.chem.ucl.ac.uk/ccp/web-mirrors/powdcell/a_v/v_1/powder/e_cell.html) is a user-friendly shell for an quasi-simultaneous comparison between experimental data and calculated powder diffraction pattern including automatic refinement procedures `free`
 - [QualX](https://www.ba.ic.cnr.it/softwareic/qualxweb/) is a program able to identify crystal phase(s) from powder diffraction data (including qualitative analysis) `free`
@@ -203,6 +204,8 @@ and neutron fixed wavelength and TOF data `non-free`
 - [X-ray](https://drive.google.com/open?id=1JdpBz5xmEQG5BZmg6lzxq0QYzs2Ke161&authuser=m154161%40edu.misis.ru&usp=drive_fs) is a program for processing X-ray spectra developed by [Alexey Karpenkov](https://www.researchgate.net/profile/Alexey-Karpenkov) `free`
 - [XPowder](https://www.xpowder.com/) is a software has for the identification, quantification and characterization of the crystalline components of solid samples `shareware`
 - [XLENS diffraction software](https://crystallography.icmab.es/software/) distributed by the Crystallography and X-ray Diffraction Laboratory (The Institute of Materials Science of Barcelona, Spain) `free`
+- [Structure Data Converter & Editor](http://www.cryst.ehu.es/cgi-bin/cryst/programs/mcif2vesta/index.php) by the Bilbao Crystallographic Server `free`
+- [Wyckoff Position Calculator](http://www.cryst.ehu.es/cryst/get_wp.html) by the Bilbao Crystallographic Server `free`
 - [Crystallography applets and simulation tools](https://www.epfl.ch/schools/sb/research/iphys/teaching/crystallography/) by EPFL `free`
 </details>
 <details>
