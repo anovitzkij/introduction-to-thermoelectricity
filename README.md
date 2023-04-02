@@ -1,7 +1,7 @@
 # Introduction to Thermoelectricity
 
 A curated list of books/software/resources useful for thermoelectric materials research</br>
-<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: March 19, 2023 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
+<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: April 2, 2023 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
 ## Table of contents:
 [Recommended literature](#Recommended_literature)</br>
 [Software](#Software)</br>
@@ -147,6 +147,7 @@ Follow up: Gibbs, Z.M.; Kim, H.-S.; Wang, H.; Snyder, G.J. [Band gap estimation 
 - [OriginPro](https://www.originlab.com/origin) is one of the most popular data analysis and graphing software in academia `non-free`
 - [gnuplot](http://www.gnuplot.info/)  is a portable command-line driven graphing utility `free`
 - [DataGraph](https://www.visualdatatools.com/DataGraph/) is a graphing and data analysis software application for the macOS operating system `non-free`
+- [GraphPad](https://www.graphpad.com/) combines scientific graphing, comprehensive curve fitting, and data organization `non-free`
 - [SigmaPlot](https://systatsoftware.com/sigmaplot/) is a software package for scientific graphing and data analysis `non-free`
 - [Veusz](https://veusz.github.io/) is a scientific plotting and graphing program with a graphical user interface, designed to produce publication-ready 2D and 3D plots. In addition it can be used as a module in Python for plotting `free`
 - [Ti*k*Z & PGF](https://www.ctan.org/pkg/pgf) is a $\TeX$ macro package for creating graphs with a user-friendly syntax layer `free`
