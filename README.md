@@ -1,7 +1,7 @@
 # Introduction to Thermoelectricity
 
 A curated list of books/software/resources useful for thermoelectric materials research</br>
-<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: April 2, 2023 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
+<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: May 21, 2023 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
 ## Table of contents:
 [Recommended literature](#Recommended_literature)</br>
 [Software](#Software)</br>
@@ -9,6 +9,7 @@ A curated list of books/software/resources useful for thermoelectric materials r
 [Tutorials](#Tutorials)</br>
 [Databases](#Databases)</br>
 [Scientific research repositories](#Scientific_research_repositories)</br>
+[Research ethics](#research_ethics)</br>
 [Search for scientific publications and books](#Search_for_books)</br>
 [Academic writing](#Academic_writing)</br>
 [Data visualization and presentation](#dataviz)</br>
@@ -137,7 +138,7 @@ Follow up: Gibbs, Z.M.; Kim, H.-S.; Wang, H.; Snyder, G.J. [Band gap estimation 
 <a name="Software"></a>
 ## Software
 <details>
-    <summary>Data processing and graphing</summary>
+    <summary>Data analysis and graphing</summary>
 
 - [Python](https://www.python.org/) is a high-level, interpreted, general-purpose programming language, which seems to be one of the most popular to be applied for scientific research. In particular, it can be used for data analysis, calculations or graphing `free`
 <br>🐍 Recommended environment: [Anaconda distribution](https://www.anaconda.com/products/distribution) (see ['getting started'](https://youtu.be/tn1wpfpLx6Y) by [Dr. Taylor Sparks](https://scholar.google.com/citations?user=19j9s6oAAAAJ&hl))
@@ -145,13 +146,13 @@ Follow up: Gibbs, Z.M.; Kim, H.-S.; Wang, H.; Snyder, G.J. [Band gap estimation 
 <br>🎨 Python libraries for graphing: [matplotlib](https://github.com/matplotlib/matplotlib), [plotnine](https://plotnine.readthedocs.io/en/stable/), [seaborn](https://github.com/mwaskom/seaborn), [plotly](https://github.com/plotly/plotly.py), and [bokeh](https://github.com/bokeh/bokeh)
 <br>🤖 [ChatGPT](https://chat.openai.com) can help you to improve your code or even write a code for you following your human request
 - [OriginPro](https://www.originlab.com/origin) is one of the most popular data analysis and graphing software in academia `non-free`
+- [MagicPlot](https://magicplot.com/) is a software for nonlinear fitting, plotting and data analysis. Alternative to OriginPro (macOS is ok) `non-free`
 - [gnuplot](http://www.gnuplot.info/)  is a portable command-line driven graphing utility `free`
 - [DataGraph](https://www.visualdatatools.com/DataGraph/) is a graphing and data analysis software application for the macOS operating system `non-free`
 - [GraphPad](https://www.graphpad.com/) combines scientific graphing, comprehensive curve fitting, and data organization `non-free`
 - [SigmaPlot](https://systatsoftware.com/sigmaplot/) is a software package for scientific graphing and data analysis `non-free`
 - [Veusz](https://veusz.github.io/) is a scientific plotting and graphing program with a graphical user interface, designed to produce publication-ready 2D and 3D plots. In addition it can be used as a module in Python for plotting `free`
 - [Ti*k*Z & PGF](https://www.ctan.org/pkg/pgf) is a $\TeX$ macro package for creating graphs with a user-friendly syntax layer `free`
-- [Grace](https://plasma-gate.weizmann.ac.il/Grace/) is a WYSIWYG 2D plotting tool that runs under Linux and Mac `free`
 - [Asymptote](https://asymptote.sourceforge.io/) is a 2D & 3D $\TeX$-Aware Vector Graphics Language `free`
 - [MATLAB](https://www.mathworks.com/products/matlab.html) is a multi-paradigm programming language and numeric computing environment `non-free`
 - [Octave](https://octave.org/) is a programming language for scientific computing considered as an alternative to MATLAB `free`
@@ -181,7 +182,8 @@ Reference managers that will help you collect, organize, annotate, cite, and sha
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html), [Adobe InDesign](https://www.adobe.com/products/indesign.html) & [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) `non-free`
 - [Inkscape](https://inkscape.org/?switchlang=en) is an open source vector graphics editor (equivalent of Adobe Illustrator) `free`
 - [GIMP](https://www.gimp.org/) is an open source image editor (alternative of Adobe Photoshop) `free`
-- [ImageJ](https://imagej.nih.gov/ij/docs/index.html) is a public domain Java image processing program `free`
+- [ImageJ](https://imagej.nih.gov/ij/docs/index.html) is a public domain Java image processing program (and [more](https://imagej.net/software/)) `free`
+- [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) is a tool to extract numerical data from the images of plots `free`
 - [Blender3D](https://www.blender.org/) is a modeling-and-rendering software, and it's open source `free`
 - [Solid Edge Student Edition](https://www.plm.automation.siemens.com/plmapp/education/solid-edge/en_us/free-software/student) is a professional 3D CAD software `free`
 - [Google SketchUp](https://www.sketchup.com/plans-and-pricing/sketchup-free) is a 3D modeling online suite for a broad range of drawing and design applications, good for easy sketches `free`
@@ -224,6 +226,7 @@ Also see [comparison of best electronic lab notebook](https://github.com/Labii/c
 
 - [Alloys](https://drive.google.com/open?id=1dX88VPRojxB8viRZWbHbp0a__QPe_pq9&authuser=m154161%40edu.misis.ru&usp=drive_fs) is a program for alloy weight calculations developed by [Alexey Karpenkov](https://www.researchgate.net/profile/Alexey-Karpenkov)
 - [STDU Viewer](http://www.stdutility.com/download.html) is a viewer for multiple file formats (TIFF, PDF, DjVu, FB2, XPS, JBIG2)
+- [Notepad++](https://notepad-plus-plus.org/) is a free and versatile Notepad software.
 - [Scripts for science and chemistry](https://github.com/fxcoudert/tools) by [François-Xavier Coudert](https://www.coudert.name/)
 - [Chemical equation balancer](https://www.webqc.org/balance.php) by webQC chemical portal
 - [Phase diagram creation](https://oqmd.org/analysis/phase_diagram/) by [Chris Wolverton's](https://www.wolverton.northwestern.edu/) group at Northwestern University
@@ -331,6 +334,7 @@ Also see [comparison of best electronic lab notebook](https://github.com/Labii/c
 - [Creating effective slides: Design, Construction, and Use in Science](https://youtu.be/meBXuTIPJQk) by [Jean-luc Doumont](https://www.principiae.be/X0800.php), 2013
 - [Structuring and writing a scientific manuscript](https://youtu.be/jXnOQbPmZKQ) & [How to avoid grammatical errors in your manuscript](https://youtu.be/QZah_rJE1X8) by [Jacob Wickham](https://scholar.google.com/citations?user=h-53GPcAAAAJ&hl=en), 2022
 </details>
+[https://researchseminars.org/](https://researchseminars.org/) - constantly updating database of online events across all disciplines.
 
 <a name="Tutorials"></a>
 ## Tutorials
@@ -356,6 +360,7 @@ Also see [comparison of best electronic lab notebook](https://github.com/Labii/c
 - [Pauling File](https://paulingfile.com/) and [MPDS](https://mpds.io/) are two databases where phase diagrams linked with crystal structures and physical properties of all experimentally known inorganic compounds.
 - [The Materials Project](https://materialsproject.org/) is an open-access database offering material properties to accelerate the development of technology by predicting how new materials–both real and hypothetical–can be used.
 - [Open Quantum Materials Database (OQMD)](http://oqmd.org/) is a database of DFT calculated thermodynamic and structural properties of materials.
+- [Materialis.AI](https://thermopower.materialis.ai/) is a tool that can predict the Seebeck, electrical conductivity, and power factor of a material.
 - [NIST Standard Reference Data (SRD)](https://www.nist.gov/srd/srd-catalog) is a catalog of several databases by NIST.
 - [NIST Alloy Data](https://trc.nist.gov/metals_data/) is a thermophysical property database with a focus on unary, binary, and ternary metal systems.
 - [The Citrine](http://thermoelectrics.citrination.com/#/) is a materials recommendation engine for thermoelectrics that exposes a suite of machine learning-based models to estimate a material’s merits as a candidate thermoelectric.
@@ -389,6 +394,13 @@ Also see [data resources for materials science](https://github.com/sedaoturak/da
 - [The Materials Data Facility (MDF)](https://materialsdatafacility.org/)
 - [Materials Commons](https://materialscommons.org/)
 
+<a name="research_ethics"></a>
+## Research ethics
+- [NIH Research Ethics Training](https://researchethics.od.nih.gov/CourseIndex.aspx)
+- [CRediT (Contributor Roles Taxonomy)](https://credit.niso.org/) is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to research outputs. The roles describe each contributor’s specific contribution to the scholarly output.
+- [Who Are Corresponding Authors?](https://doi.org/10.1021/nn301566x)
+- [Best Practices for Using AI When Writing Scientific Manuscripts. Caution, Care, and Consideration: Creative Science Depends on It](https://doi.org/10.1021/acsnano.3c01544)
+- [How bullying becomes a career tool](https://doi.org/10.1038/s41562-022-01311-z) by Täuber and Mahmoudi or [How Bullying Manifests at Work — and How to Stop It](https://hbr.org/2022/11/how-bullying-manifests-at-work-and-how-to-stop-it) by Praslova, Carucci, and Stokes
 
 <a name="Search_for_books"></a>
 ## Search for scientific publications and books
@@ -413,7 +425,7 @@ Also see [data resources for materials science](https://github.com/sedaoturak/da
     <summary>🏴‍☠️ ☠️ 🏴‍☠️</summary>
 
 - [sci-hub](https://sci-hub.se/) is a shadow library website that provides free access to millions of research papers and books, without regard to copyright, by bypassing publishers' paywalls in various ways ([sci-hub bot](https://telegram.me/scihubot) in Telegram)
-- [Nexus bot in Telegram](https://t.me/nexus_search_1_bot)
+- [Nexus bot in Telegram](https://t.me/science_nexus_bot)
 - [twirpx](https://www.twirpx.org/) is an elibrary for students
 - [zlibrary](https://z-lib.org/) is the largest ebook library
 </details>
@@ -433,6 +445,7 @@ Also see [data resources for materials science](https://github.com/sedaoturak/da
 - [First Impressions of Your Science: Title Matters](https://doi.org/10.1021/acsnano.2c11900)
 - [Five Key Attributes of an Effective Title](https://pubs.acs.org/doi/10.1021/acsenergylett.1c00755)
 - [The Art of Writing the Title of Your Paper](https://pubs.acs.org/doi/10.1021/cm5017917)
+- [Judging a manuscript by its cover (letter)](https://doi.org/10.1016/j.matt.2021.06.016)
 </details>
 <details>
     <summary>Figures</summary>
@@ -443,7 +456,9 @@ Also see [data resources for materials science](https://github.com/sedaoturak/da
 <details>
     <summary>Writing</summary>
 
+- [Beating the odds for journal acceptance](http://doi.org/10.1126/sciadv.add9147)
 - [Style Guides and the Garlic, Shallots, and Butter of Scientific Writing](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c01612)
+- [Increase Your Impact: Writing Tips to Reach a Broader Audience](https://doi.org/10.1021/acsnanoscienceau.2c00030)
 - [My Manuscript Was “Rejected without Review” from Chemistry of Materials: A Lesson in Burying the Lede](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c03512)
 - [Rejecting without Review: The Whys, the Hows](https://pubs.acs.org/doi/10.1021/nn1022318)
 - [Why Was My Paper Rejected without Review?](https://pubs.acs.org/doi/10.1021/acs.est.0c05784)
@@ -476,6 +491,8 @@ Also see [data resources for materials science](https://github.com/sedaoturak/da
 
 To read:
 
+- Michael Alley – [The Craft of Scientific Presentations: Critical Steps to Succeed and Critical Errors to Avoid](http://doi.org/10.1007/978-1-4419-8279-7) (2013)
+- Steve Cranford – [Promote or perish: Marketing yourself as a researcher](https://doi.org/10.1016/j.matt.2022.08.002) (2022)
 - Claus O. Wilke – [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html) (2019)
 - Nicolas P. Rougier – [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html) (2021)
 - [Preparing figures for publication and presentations](https://www.mrl.ucsb.edu/~seshadri/Seshadri-PreparingFigures-2018.pdf) by [Ram Seshadri](https://scholar.google.com/citations?user=WYnzkIIAAAAJ&hl=en) (2018)
