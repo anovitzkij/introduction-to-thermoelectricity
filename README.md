@@ -1,7 +1,7 @@
 # Introduction to Thermoelectricity
 
 A curated list of books/software/resources useful for thermoelectric materials research</br>
-<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: May 21, 2023 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
+<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: March 5, 2025 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
 ## Table of contents:
 [Recommended literature](#Recommended_literature)</br>
 [Software](#Software)</br>
@@ -66,10 +66,10 @@ A curated list of books/software/resources useful for thermoelectric materials r
 </br>Russian version: Дмитриев, А.В.; Звягин, И.П. [Современные тенденции развития физики термоэлектрических материалов](http://www.mathnet.ru/links/565b792f7e0e0752c6afc3f3b5dc71a8/ufn2254.pdf). *Успехи физических наук* **2010**, *180* (8), 821–837
 - Beretta, D.; *et al*. [Thermoelectrics: From history, a window to the future](https://boa.unimib.it/retrieve/handle/10281/215651/454726/MSR_2018_89_Original_V0_submitted.pdf). *Mater. Sci. Eng. R Reports* **2019**, *138*, 100501
 - Brief [history](http://thermoelectrics.matsci.northwestern.edu/thermoelectrics/history.html) and [introduction](http://thermoelectrics.matsci.northwestern.edu/thermoelectrics/index.html) to Thermoelectricity at Jeff Snyder's group website.
-- Snyder, G.J.; Toberer, E.S. [Complex thermoelectric materials](https://sci-hub.se/10.1038/nmat2090). *Nat. Mater.* **2008**, *7* (2), 105–114
-- Zevalkink, A.; *et al*. [A practical field guide to thermoelectrics: Fundamentals, synthesis, and characterization](https://sci-hub.se/10.1063/1.5021094). *Appl. Phys. Rev.* **2018**, *5* (2), 021303
-- Zeier, W.G.; Zevalkink, A.; Gibbs, Z.M.; Hautier, G.; Kanatzidis, M.G.; Snyder, G.J. [Thinking like a chemist: Intuition in thermoelectric materials](https://sci-hub.se/10.1002/anie.201508381). *Angew. Chemie Int. Ed.* **2016**, *55* (24), 6826–6841
-- He, J.; Tritt, T.M. [Advances in thermoelectric materials research: Looking back and moving forward](https://sci-hub.se/10.1126/science.aak9997). *Science* **2017**, *357* (6358), eaak9997
+- Snyder, G.J.; Toberer, E.S. [Complex thermoelectric materials](https://doi.org/10.1038/nmat2090). *Nat. Mater.* **2008**, *7* (2), 105–114
+- Zevalkink, A.; *et al*. [A practical field guide to thermoelectrics: Fundamentals, synthesis, and characterization](https://doi.org/10.1063/1.5021094). *Appl. Phys. Rev.* **2018**, *5* (2), 021303
+- Zeier, W.G.; Zevalkink, A.; Gibbs, Z.M.; Hautier, G.; Kanatzidis, M.G.; Snyder, G.J. [Thinking like a chemist: Intuition in thermoelectric materials](https://doi.org/10.1002/anie.201508381). *Angew. Chemie Int. Ed.* **2016**, *55* (24), 6826–6841
+- He, J.; Tritt, T.M. [Advances in thermoelectric materials research: Looking back and moving forward](https://doi.org/10.1126/science.aak9997). *Science* **2017**, *357* (6358), eaak9997
 - Jia, N.; *et al*. [Thermoelectric Materials and Transport Physics](https://drive.google.com/file/d/1q0wtCmVn_2t7xzh--rW5rpc2xe9jB9eL/view?usp=sharing). *Mater. Today Phys.* **2021**, *21*, 100519.
 </details>
 <details>
@@ -79,39 +79,40 @@ A curated list of books/software/resources useful for thermoelectric materials r
     <summary>General</summary>
 
 - Freer, R.; *et al*. [Key properties of inorganic thermoelectric materials — Tables](https://iopscience.iop.org/article/10.1088/2515-7655/ac49dc). *J. Phys. Energy* **2022**, *4* (2), 022002
-- Sootsman, J.R.; Chung, D.Y.; Kanatzidis, M.G. [New and old concepts in thermoelectric materials](https://sci-hub.se/10.1002/anie.200900598). *Angew. Chemie Int. Ed.* **2009**, *48* (46), 8616–8639
-- Kanatzidis, M.G. [Nanostructured thermoelectrics: The new Paradigm?](https://sci-hub.se/10.1021/cm902195j) *Chem. Mater.* **2010**, *22* (3), 648–659
-- Wang, H.; LaLonde, A.D.; Pei, Y.; Snyder, G.J. [The criteria for beneficial disorder in thermoelectric solid solutions](https://sci-hub.se/10.1002/adfm.201201576). *Adv. Funct. Mater.* **2013**, *23* (12), 1586–1596
+- Sootsman, J.R.; Chung, D.Y.; Kanatzidis, M.G. [New and old concepts in thermoelectric materials](https://doi.org/10.1002/anie.200900598). *Angew. Chemie Int. Ed.* **2009**, *48* (46), 8616–8639
+- Kanatzidis, M.G. [Nanostructured thermoelectrics: The new Paradigm?](https://doi.org/10.1021/cm902195j) *Chem. Mater.* **2010**, *22* (3), 648–659
+- Wang, H.; LaLonde, A.D.; Pei, Y.; Snyder, G.J. [The criteria for beneficial disorder in thermoelectric solid solutions](https://doi.org/10.1002/adfm.201201576). *Adv. Funct. Mater.* **2013**, *23* (12), 1586–1596
 - Anand, S.; Wolverton, C.; Snyder, G.J. [Thermodynamic guidelines for maximum solubility](https://drive.google.com/file/d/11wm5mHQpPHyv2--Si2-LbvkbkrD_YrCG/view?usp=sharing). *Chem. Mater.* **2022**, *34* (4), 1638–1648
 - Toriyama, M.Y.; Ganose, A.M.; Dylla, M.; Anand, S.; Park, J.; Brod, M.K.; Munro, J.M.; Persson, K.A.; Jain, A.; Snyder, G.J. [How to analyse a Density of States](https://doi.org/10.1016/j.mtelec.2022.100002). *Mater. Today Electron.* **2022**, *1*, 100002
 - Goldsmid, H.J. [Improving the thermoelectric figure of merit](https://www.tandfonline.com/doi/epub/10.1080/14686996.2021.1903816?needAccess=true). *Sci. Technol. Adv. Mater.* **2021**, *22* (1), 280–284
-- Tan, G.; Zhao, L.-D.; Kanatzidis, M.G. [Rationally designing high-performance bulk thermoelectric materials](https://sci-hub.se/10.1021/acs.chemrev.6b00255). *Chem. Rev.* **2016**, *116* (19), 12123–12149
-- Zhao, L.-D.; Dravid, V.P.; Kanatzidis, M.G. [The panoscopic approach to high performance thermoelectrics](https://sci-hub.se/10.1039/C3EE43099E). *Energy Environ. Sci.* **2014**, *7* (1), 251
-- Vineis, C.J.; Shakouri, A.; Majumdar, A.; Kanatzidis, M.G. [Nanostructured thermoelectrics: Big efficiency gains from small features](https://sci-hub.se/10.1002/adma.201000839). *Adv. Mater.* **2010**, *22* (36), 3970–3980
-- Gorai, P.; Stevanović, V.; Toberer, E.S. [Computationally guided discovery of thermoelectric materials](https://sci-hub.se/10.1038/natrevmats.2017.53). *Nat. Rev. Mater.* **2017**, *2* (9), 17053
+- Tan, G.; Zhao, L.-D.; Kanatzidis, M.G. [Rationally designing high-performance bulk thermoelectric materials](https://doi.org/10.1021/acs.chemrev.6b00255). *Chem. Rev.* **2016**, *116* (19), 12123–12149
+- Zhao, L.-D.; Dravid, V.P.; Kanatzidis, M.G. [The panoscopic approach to high performance thermoelectrics](https://doi.org/10.1039/C3EE43099E). *Energy Environ. Sci.* **2014**, *7* (1), 251
+- Vineis, C.J.; Shakouri, A.; Majumdar, A.; Kanatzidis, M.G. [Nanostructured thermoelectrics: Big efficiency gains from small features](https://doi.org/10.1002/adma.201000839). *Adv. Mater.* **2010**, *22* (36), 3970–3980
+- Gorai, P.; Stevanović, V.; Toberer, E.S. [Computationally guided discovery of thermoelectric materials](https://doi.org/10.1038/natrevmats.2017.53). *Nat. Rev. Mater.* **2017**, *2* (9), 17053
 - Polash, M.M.H.; Moseley, D.; Zhang, J.; Hermann, R.P.; Vashaee, D. [Understanding and design of spin-driven thermoelectrics](https://doi.org/10.1016/j.xcrp.2021.100614). *Cell Reports Phys. Sci.* **2021**, 100614
-- Snyder, G.J.; Snyder, A.H. [Figure of merit *ZT* of a thermoelectric device defined from materials properties](https://sci-hub.se/10.1039/C7EE02007D). *Energy Environ. Sci.* **2017**, *10* (11), 2280–2283
+- Snyder, G.J.; Snyder, A.H. [Figure of merit *ZT* of a thermoelectric device defined from materials properties](https://doi.org/10.1039/C7EE02007D). *Energy Environ. Sci.* **2017**, *10* (11), 2280–2283
 </br>Follow up: [Procedure to Calculate Device *ZT* from materials properties](http://thermoelectrics.matsci.northwestern.edu/thermoelectrics/ztcalc.html)
+- Mugiraneza, S.; Hallas, A.M. [Tutorial: a beginner’s guide to interpreting magnetic susceptibility data with the Curie-Weiss law](https://doi.org/10.1038/s42005-022-00853-y). *Commun. Phys.* **2022**, *5* (1), 95.
 </details>
 <details>
     <summary>Phonon transport</summary>
 
-- Toberer, E.S.; Zevalkink, A.; Snyder, G.J. [Phonon engineering through crystal chemistry](https://sci-hub.se/10.1039/C1JM11754H). *J. Mater. Chem.* **2011**, *21* (40), 15843
+- Toberer, E.S.; Zevalkink, A.; Snyder, G.J. [Phonon engineering through crystal chemistry](https://doi.org/10.1039/C1JM11754H). *J. Mater. Chem.* **2011**, *21* (40), 15843
 - Hanus, R.; Gurunathan, R.; Lindsay, L.; Agne, M.T.; Shi, J.; Graham, S.; Jeffrey Snyder, G. [Thermal transport in defective and disordered materials](https://drive.google.com/file/d/1-cvJUPhHY6HlzzQEQwsDhDOEV1PYUHUu/view?usp=sharing). *Appl. Phys. Rev.* **2021**, *8* (3), 031311
-- Kuo, J.J.; Wood, M.; Slade, T.J.; Kanatzidis, M.G.; Snyder, G.J. [Systematic over-estimation of lattice thermal conductivity in materials with electrically-resistive grain boundaries](https://sci-hub.se/10.1039/C9EE03921J). *Energy Environ. Sci.* **2020**, *13* (4), 1250–1258
-- Hanus, R.; Agne, M.T.; Rettie, A.J.E.; Chen, Z.; Tan, G.; Chung, D.Y.; Kanatzidis, M.G.; Pei, Y.; Voorhees, P.W.; Snyder, G.J. [Lattice softening significantly reduces thermal conductivity and leads to high thermoelectric efficiency](https://sci-hub.se/10.1002/adma.201900108). *Adv. Mater.* **2019**, *31* (21), 1900108
+- Kuo, J.J.; Wood, M.; Slade, T.J.; Kanatzidis, M.G.; Snyder, G.J. [Systematic over-estimation of lattice thermal conductivity in materials with electrically-resistive grain boundaries](https://doi.org/10.1039/C9EE03921J). *Energy Environ. Sci.* **2020**, *13* (4), 1250–1258
+- Hanus, R.; Agne, M.T.; Rettie, A.J.E.; Chen, Z.; Tan, G.; Chung, D.Y.; Kanatzidis, M.G.; Pei, Y.; Voorhees, P.W.; Snyder, G.J. [Lattice softening significantly reduces thermal conductivity and leads to high thermoelectric efficiency](https://doi.org/10.1002/adma.201900108). *Adv. Mater.* **2019**, *31* (21), 1900108
 - Slade, T.J.; Anand, S.; Wood, M.; Male, J.P.; Imasato, K.; Cheikh, D.; Al Malki, M.M.; Agne, M.T.; Griffith, K.J.; Bux, S.K.; Wolverton, C.; Kanatzidis, M.G.; Snyder, G.J. [Charge-carrier-mediated lattice softening contributes to high *zT* in thermoelectric semiconductors](https://www.cell.com/joule/pdfExtended/S2542-4351(21)00132-X). *Joule* **2021**, *5* (5), 1168–1182
-- Gurunathan, R.; Hanus, R.; Dylla, M.; Katre, A.; Snyder, G.J. [Analytical models of phonon–point-defect scattering](https://sci-hub.se/10.1103/PhysRevApplied.13.034011). *Phys. Rev. Appl.* **2020**, *13* (3), 034011
+- Gurunathan, R.; Hanus, R.; Dylla, M.; Katre, A.; Snyder, G.J. [Analytical models of phonon–point-defect scattering](https://doi.org/10.1103/PhysRevApplied.13.034011). *Phys. Rev. Appl.* **2020**, *13* (3), 034011
 - Gurunathan, R.; Hanus, R.; Snyder, G.J. [Alloy scattering of phonons](https://pubs.rsc.org/en/content/articlelanding/2020/MH/C9MH01990A). *Mater. Horizons* **2020**, *7* (6), 1452–1456
-- Agne, M.T.; Hanus, R.; Snyder, G.J. [Minimum thermal conductivity in the context of *diffuson*-mediated thermal transport](https://sci-hub.se/10.1039/C7EE03256K). *Energy Environ. Sci.* **2018**, *11* (3), 609–616
-- Kim, H.-S.; Kang, S.D.; Tang, Y.; Hanus, R.; Jeffrey Snyder, G. [Dislocation strain as the mechanism of phonon scattering at grain boundaries](https://sci-hub.se/10.1039/C5MH00299K). *Mater. Horizons* **2016**, *3* (3), 234–240
-- Agne, M T.; Voorhees, P.W.; Snyder, G.J. [Phase transformation contributions to heat capacity and impact on thermal diffusivity, thermal conductivity, and thermoelectric performance](https://sci-hub.se/10.1002/adma.201902980). *Adv. Mater.* **2019**, *31* (35), 1902980
+- Agne, M.T.; Hanus, R.; Snyder, G.J. [Minimum thermal conductivity in the context of *diffuson*-mediated thermal transport](https://doi.org/10.1039/C7EE03256K). *Energy Environ. Sci.* **2018**, *11* (3), 609–616
+- Kim, H.-S.; Kang, S.D.; Tang, Y.; Hanus, R.; Jeffrey Snyder, G. [Dislocation strain as the mechanism of phonon scattering at grain boundaries](https://doi.org/10.1039/C5MH00299K). *Mater. Horizons* **2016**, *3* (3), 234–240
+- Agne, M T.; Voorhees, P.W.; Snyder, G.J. [Phase transformation contributions to heat capacity and impact on thermal diffusivity, thermal conductivity, and thermoelectric performance](https://doi.org/10.1002/adma.201902980). *Adv. Mater.* **2019**, *31* (35), 1902980
 </details>
 <details>
     <summary>Measurements</summary>
 
-- Borup, K.A.; de Boor, J.; Wang, H.; Drymiotis, F.; Gascoin, F.; Shi, X.; Chen, L.; Fedorov, M.I.; Müller, E.; Iversen, B.B.; Snyder, G.J. [Measuring thermoelectric transport properties of materials](https://sci-hub.se/10.1039/C4EE01320D). *Energy Environ. Sci.* **2015**, *8* (2), 423–435
-- Alleno, E.; Bérardan, D.; Byl, C.; Candolfi, C.; Daou, R.; Decourt, R.; Guilmeau, E.; Hébert, S.; Hejtmanek, J.; Lenoir, B.; Masschelein, P.; Ohorodnichuk, V.; Pollet, M.; Populoh, S.; Ravot, D.; Rouleau, O.; Soulier, M. [Invited article: A round robin test of the uncertainty on the measurement of the thermoelectric dimensionless figure of merit of Co<sub>0.97</sub>Ni<sub>0.03</sub>Sb<sub>3</sub>.](https://sci-hub.se/10.1063/1.4905250) *Rev. Sci. Instrum.* **2015**, *86* (1), 011301
+- Borup, K.A.; de Boor, J.; Wang, H.; Drymiotis, F.; Gascoin, F.; Shi, X.; Chen, L.; Fedorov, M.I.; Müller, E.; Iversen, B.B.; Snyder, G.J. [Measuring thermoelectric transport properties of materials](https://doi.org/10.1039/C4EE01320D). *Energy Environ. Sci.* **2015**, *8* (2), 423–435
+- Alleno, E.; Bérardan, D.; Byl, C.; Candolfi, C.; Daou, R.; Decourt, R.; Guilmeau, E.; Hébert, S.; Hejtmanek, J.; Lenoir, B.; Masschelein, P.; Ohorodnichuk, V.; Pollet, M.; Populoh, S.; Ravot, D.; Rouleau, O.; Soulier, M. [Invited article: A round robin test of the uncertainty on the measurement of the thermoelectric dimensionless figure of merit of Co<sub>0.97</sub>Ni<sub>0.03</sub>Sb<sub>3</sub>.](https://doi.org/10.1063/1.4905250) *Rev. Sci. Instrum.* **2015**, *86* (1), 011301
 </details>
 <details>
     <summary>Defects</summary>
@@ -125,13 +126,14 @@ A curated list of books/software/resources useful for thermoelectric materials r
 
 - Kim, S.; Hood, S.N.; Park, J.-S.; Whalley, L.D.; Walsh, A. [Quick-start guide for first-principles modelling of point defects in crystalline materials](https://iopscience.iop.org/article/10.1088/2515-7655/aba081/pdf). *J. Phys. Energy* **2020**, *2* (3), 036001
 - Goldsmid, H.J.; Sharp, J.W. [Estimation of the thermal band gap of a semiconductor from Seebeck measurements](https://link.springer.com/content/pdf/10.1007/s11664-999-0211-y.pdf). *J. Electron. Mater.* **1999**, *28* (7), 869–872
-Follow up: Gibbs, Z.M.; Kim, H.-S.; Wang, H.; Snyder, G.J. [Band gap estimation from temperature dependent Seebeck measurement—Deviations from the 2*e*|*S*|<sub>max</sub>*T*<sub>max</sub> relation](https://sci-hub.se/10.1063/1.4905922). *Appl. Phys. Lett.* **2015**, *106* (2), 022112
+Follow up: Gibbs, Z.M.; Kim, H.-S.; Wang, H.; Snyder, G.J. [Band gap estimation from temperature dependent Seebeck measurement—Deviations from the 2*e*|*S*|<sub>max</sub>*T*<sub>max</sub> relation](https://doi.org/10.1063/1.4905922). *Appl. Phys. Lett.* **2015**, *106* (2), 022112
 - Kim, H.S.; Gibbs, Z.M.; Tang, Y.; Wang, H.; Snyder, G.J. [Characterization of Lorenz number with Seebeck coefficient measurement](https://aip.scitation.org/doi/pdf/10.1063/1.4908244). *APL Mater.* **2015**, *3* (4), 041506
 - Wang, H.; Gurunathan, R.; Fu, C.; Cui, R.; Zhu, T.; Snyder, G.J. [Thermoelectric transport effects beyond single parabolic band and acoustic phonon scattering](https://pubs.rsc.org/en/Content/ArticleLanding/2021/MA/D1MA00780G). *Mater. Adv.* **2022**, *3* (2), 734–755
 - Zhang, X.; Bu, Z.; Shi, X.; Chen, Z.; Lin, S.; Shan, B.; Wood, M.; Snyder, A.H.; Chen, L.; Snyder, G.J.; Pei, Y. [Electronic quality factor for thermoelectrics](https://www.science.org/doi/epdf/10.1126/sciadv.abc0726). *Sci. Adv.* **2020**, *6* (46), eabc0726
-- Snyder, G.J.; Snyder, A.H.; Wood, M.; Gurunathan, R.; Snyder, B.H.; Niu, C. [Weighted mobility](https://sci-hub.se/10.1002/adma.202001537). *Adv. Mater.* **2020**, *32* (25), 2001537
+- Snyder, G.J.; Snyder, A.H.; Wood, M.; Gurunathan, R.; Snyder, B.H.; Niu, C. [Weighted mobility](https://doi.org/10.1002/adma.202001537). *Adv. Mater.* **2020**, *32* (25), 2001537
 - Snyder, G.J.; Pereyra, A.; Gurunathan, R. [Effective mass from Seebeck coefficient](https://drive.google.com/file/d/1_-8jXcc0kzbboRol7DVETLHEvYiW88cO/view?usp=sharing). *Adv. Funct. Mater.* **2022**, *32* (20), 2112772
-- Crawford, C.M.; Bensen, E.A.; Vinton, H.A.; Toberer, E.S. [Efficacy of the Method of Four Coefficients to Determine Charge-Carrier Scattering](https://sci-hub.se/10.1103/PhysRevApplied.16.024004). *Phys. Rev. Appl.* **2021**, *16* (2), 024004.
+- Crawford, C.M.; Bensen, E.A.; Vinton, H.A.; Toberer, E.S. [Efficacy of the Method of Four Coefficients to Determine Charge-Carrier Scattering](https://doi.org/10.1103/PhysRevApplied.16.024004). *Phys. Rev. Appl.* **2021**, *16* (2), 024004.
+- Novitskii A.; Mori, T. [Pisarenko's Formula for the Thermopower](https://doi.org/10.48550/arXiv.2502.03837). **arxiv preprint** 2025 
 </details>
 </details>
 
