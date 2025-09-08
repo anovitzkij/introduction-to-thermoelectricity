@@ -1,7 +1,7 @@
 # Introduction to Thermoelectricity
 
 A curated list of books/software/resources useful for thermoelectric materials research</br>
-<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: March 5, 2025 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
+<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: September 8, 2025 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
 ## Table of contents:
 [Recommended literature](#Recommended_literature)</br>
 [Software](#Software)</br>
