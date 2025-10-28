@@ -1,7 +1,7 @@
 # Introduction to Thermoelectricity
 
 A curated list of books/software/resources useful for thermoelectric materials research</br>
-<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | Last update: September 8, 2025 | This list in [Notion](https://tinyurl.com/ateguide)</sub>
+<sub>Created and curated by [Andrei Novitskii](https://scholar.google.com/citations?hl=ru&user=dVhWRjoAAAAJ) | The latest updates are in [Notion](https://tinyurl.com/ateguide)</sub>
 ## Table of contents:
 [Recommended literature](#Recommended_literature)</br>
 [Software](#Software)</br>
@@ -19,26 +19,7 @@ A curated list of books/software/resources useful for thermoelectric materials r
 <a name="Recommended_literature"></a>
 ## Recommended literature
 <details>
-    <summary>Books in Russian</summary>
-
-- Киреев П.С. – [Физика полупроводников](https://drive.google.com/open?id=1Wj6FVOwjtLr9k4UAg_G7J-MJ2DgBHf-8) (1975)
-- Фистуль В.И. – [Введение в физику полупроводников](https://drive.google.com/open?id=1mSynSQHBv5LkbmecZssar_tGM_F_gHIG) (1984)
-- Шалимова К.В. – [Физика полупроводников](https://drive.google.com/open?id=1M-YHLnJrzRr7bhKND2J8T70U4PSAWQYi) (1985)
-- Иоффе А.Ф. – [Физика полупроводников](https://drive.google.com/open?id=1GjzKIqufNWgvS0IpwO7Zk3BbnUaesfVg&authuser=m154161%40edu.misis.ru&usp=drive_fs) (1957)
-- Драбл Дж., Голдсмид Г. – [Теплопроводность полупроводников](https://drive.google.com/open?id=1EMvzK_YzjPS5NJuC1rSXmoQ4oO_1dImQ) (1963)
-- Тейлор Дж. – [Введение в теорию ошибок](https://drive.google.com/open?id=1Dz-WMiqXEeZqbg-3go8OREMrVAMh1VSC) (1985)
-- Булат Л.П. – [Термоэлектрическое охлаждение. Курс лекций](https://drive.google.com/open?id=1aXmOY2eHrE1sK7bLM7qg1CWH1iHCwmJA) (2002)
-- Горелик С.С., Дашевский М.Я. – [Материаловедение полупроводников и диэлектриков](https://drive.google.com/open?id=1Cu7Ex5NXDl7PV9FqzYaVf1nLOFEOkDmF) (2003)
-- Гуртов В.А. – [Физика твердого тела для инженеров](https://drive.google.com/open?id=1FASAzgjxHI3BsWNxfJwrkW1Xqo0saRZw) (2012)
-- Фистуль В.И. – [Сильно легированные полупроводники](https://drive.google.com/open?id=1PVmwufvRcVozVz9feAqpkoDr46F5zvJv) (1967)
-- Каллистер У.Д., мл. – [Материаловедение: от технологии к применению (металлы, керамика, полимеры)](https://batrachos.com/sites/default/files/pictures/Books/Kallister_Retvich_2011_Materialovedenie_ot%20tehnologii%20k%20primeneniyu%20(metallyi,%20keramika,%20polimeryi).pdf) (2011)
-- Киттель Ч. – [Введение в физику твердого тела](https://group8209.ru/Books/FKS/FKS_Kittel_elem_FKS.pdf) (1962)
-- Бонч-Бруевич В.Л. – [Физика полупроводников](https://drive.google.com/open?id=1GVqX8aKW6dLX0kpw-n-iGNkE3wTk_3pB) (1977)
-- Спицына Л.Г. – [Физика полупроводников и металлов](https://drive.google.com/open?id=1T7L20oORdEo0xMkPx7YSWIHwHbHqdN7b) (1976)
-- Павлов Л.П. – [Методы измерения параметров полупроводниковых материалов](https://drive.google.com/open?id=1br-j96Zi9d4qeLpAwc6-epd3WKsM6hzG) (1987)
-</details>
-<details>
-    <summary>Books in English</summary>
+    <summary>Textbooks</summary>
 
 - Goldsmid H.J. – [Introduction to Thermoelectricity](https://drive.google.com/open?id=15sKjKA9GLol0a-h2ijk_fPuGs_novNZX) (2016)
 - Kireev P.S. – [Semiconductor Physics](https://www.amazon.com/Semiconductor-Physics-P-S-Kireev/dp/0714712329) (1978)
@@ -603,7 +584,26 @@ To use:
     <summary>Further reading</summary>
 
 <details>
-    <summary>Books in Russian</summary>
+    <summary>Textbooks in Russian</summary>
+<details>
+    <summary>База</summary>
+
+- Киреев П.С. – [Физика полупроводников](https://drive.google.com/open?id=1Wj6FVOwjtLr9k4UAg_G7J-MJ2DgBHf-8) (1975)
+- Фистуль В.И. – [Введение в физику полупроводников](https://drive.google.com/open?id=1mSynSQHBv5LkbmecZssar_tGM_F_gHIG) (1984)
+- Шалимова К.В. – [Физика полупроводников](https://drive.google.com/open?id=1M-YHLnJrzRr7bhKND2J8T70U4PSAWQYi) (1985)
+- Иоффе А.Ф. – [Физика полупроводников](https://drive.google.com/open?id=1GjzKIqufNWgvS0IpwO7Zk3BbnUaesfVg&authuser=m154161%40edu.misis.ru&usp=drive_fs) (1957)
+- Драбл Дж., Голдсмид Г. – [Теплопроводность полупроводников](https://drive.google.com/open?id=1EMvzK_YzjPS5NJuC1rSXmoQ4oO_1dImQ) (1963)
+- Тейлор Дж. – [Введение в теорию ошибок](https://drive.google.com/open?id=1Dz-WMiqXEeZqbg-3go8OREMrVAMh1VSC) (1985)
+- Булат Л.П. – [Термоэлектрическое охлаждение. Курс лекций](https://drive.google.com/open?id=1aXmOY2eHrE1sK7bLM7qg1CWH1iHCwmJA) (2002)
+- Горелик С.С., Дашевский М.Я. – [Материаловедение полупроводников и диэлектриков](https://drive.google.com/open?id=1Cu7Ex5NXDl7PV9FqzYaVf1nLOFEOkDmF) (2003)
+- Гуртов В.А. – [Физика твердого тела для инженеров](https://drive.google.com/open?id=1FASAzgjxHI3BsWNxfJwrkW1Xqo0saRZw) (2012)
+- Фистуль В.И. – [Сильно легированные полупроводники](https://drive.google.com/open?id=1PVmwufvRcVozVz9feAqpkoDr46F5zvJv) (1967)
+- Каллистер У.Д., мл. – [Материаловедение: от технологии к применению (металлы, керамика, полимеры)](https://batrachos.com/sites/default/files/pictures/Books/Kallister_Retvich_2011_Materialovedenie_ot%20tehnologii%20k%20primeneniyu%20(metallyi,%20keramika,%20polimeryi).pdf) (2011)
+- Киттель Ч. – [Введение в физику твердого тела](https://group8209.ru/Books/FKS/FKS_Kittel_elem_FKS.pdf) (1962)
+- Бонч-Бруевич В.Л. – [Физика полупроводников](https://drive.google.com/open?id=1GVqX8aKW6dLX0kpw-n-iGNkE3wTk_3pB) (1977)
+- Спицына Л.Г. – [Физика полупроводников и металлов](https://drive.google.com/open?id=1T7L20oORdEo0xMkPx7YSWIHwHbHqdN7b) (1976)
+- Павлов Л.П. – [Методы измерения параметров полупроводниковых материалов](https://drive.google.com/open?id=1br-j96Zi9d4qeLpAwc6-epd3WKsM6hzG) (1987)
+</details>
 
 <details>
     <summary>Физика твердого тела и полупроводников</summary>
